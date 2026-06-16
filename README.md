@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sanjay S 👋
 
-<!--
-**sanjay-1546/sanjay-1546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student at **KCT** (sanjay.25cs@kct.ac.in)
+📍 Coimbatore, Tamil Nadu, India
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Smart Farm Irrigation Platform** — a Flutter app (Android/iOS/Web) for managing borewell & open-well pumps, 4-zone irrigation, soil moisture monitoring, scheduling, alerts, analytics, and an automation rule engine, talking to a PHP/MySQL REST API.
+
+## Tech I work with
+
+`Flutter` · `Dart` · `Provider` · `REST APIs` · `Git/GitHub`
+
+## GitHub Stats
+
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-1546&show_icons=true&theme=default)
+
+---
+
+📫 Reach me at sanjay.25cs@kct.ac.in
