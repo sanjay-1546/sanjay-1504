@@ -17,4 +17,4 @@
 
 ---
 
-📫 Reach me at sanjay.25cs@kct.ac.in
+📫 Reach me at sanjay.s000017@gmail.com
